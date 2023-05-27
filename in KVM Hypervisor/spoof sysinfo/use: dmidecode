@@ -4,4 +4,7 @@ sch: https://www.google.com/search?q=libvirt+smbios+dmidecode, https://www.googl
 >"EDIT: Figured out a solution, use dmidecode to dump your dmi info into a file, and then load that file using the -smbios flag, works like magic"
 
 https://www.reddit.com/r/VFIO/comments/wvnbx9/eac_finally_blocking_kvm/
-https://www.reddit.com/r/VFIO/comments/wvnbx9/comment/ilo1u27/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+- https://www.reddit.com/r/VFIO/comments/wvnbx9/comment/ilo1u27/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+# source:
+gist: [How to use Windows 10 OEM license in libvirt VM (<smbios mode='host' /> does not work as Windows seems to verify UUID; apparmor/security configuration changes may be needed)](https://gist.github.com/Informatic/49bd034d43e054bd1d8d4fec38c305ec?permalink_comment_id=3593536)
