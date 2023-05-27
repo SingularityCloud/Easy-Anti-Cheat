@@ -2,3 +2,4 @@
 >"EDIT: Figured out a solution, use dmidecode to dump your dmi info into a file, and then load that file using the -smbios flag, works like magic"
 
 https://www.reddit.com/r/VFIO/comments/wvnbx9/eac_finally_blocking_kvm/
+https://www.reddit.com/r/VFIO/comments/wvnbx9/comment/ilo1u27/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
